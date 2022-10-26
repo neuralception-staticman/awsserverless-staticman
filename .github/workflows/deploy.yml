@@ -1,3 +1,4 @@
+# ~/static-comments/.github/workflows/deploy.yaml
 name: Deploy master branch
 
 on:
